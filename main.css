@@ -6,9 +6,15 @@
 h1{
     font-size: 30px;
     color: blue;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 p{
+    display: flex;
+    flex-wrap: wrap;
     font-size: 20px;
     color: green;
+    align-items: center;
 }
