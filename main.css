@@ -10,7 +10,6 @@ body{
     justify-content: center;
     align-items: center;
 }
-
 h1{
     font-size: 30px;
     color: 332424;
@@ -23,7 +22,17 @@ h1{
     margin-right: auto;
     margin-left: auto;
 }
-
+p{
+    display: flex;
+    font-weight: 600;
+    flex-wrap: wrap;
+    font-size: 20px;
+    color: #242424;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+}
 .p{
     display: flex;
     font-weight: 600;
@@ -35,7 +44,6 @@ h1{
     margin-left: auto;
     margin-bottom: 10px;
 }
-
 .name{
     display: flex;
     font-weight: 600;
@@ -46,7 +54,6 @@ h1{
     margin-right: auto;
     margin-left: auto;
 }
-
 .email{
     display: flex;
     font-weight: 600;
