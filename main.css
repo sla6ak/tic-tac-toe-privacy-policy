@@ -31,13 +31,14 @@ h1{
     align-items: center;
     margin-right: auto;
     margin-left: auto;
+    margin-bottom: 10px;
 }
 
 .name{
     display: flex;
     flex-wrap: wrap;
     font-size: 20px;
-    color: #249924;
+    color: #245524;
     align-items: center;
     margin-right: auto;
     margin-left: auto;
@@ -48,6 +49,15 @@ h1{
     flex-wrap: wrap;
     font-size: 20px;
     color: #242499;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+.country{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 20px;
+    color: #245524;
     align-items: center;
     margin-right: auto;
     margin-left: auto;
