@@ -17,7 +17,8 @@ h1{
     align-items: center;
     display: flex;
     flex-wrap: wrap;
-    margin-bottom: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
     margin-right: auto;
     margin-left: auto;
 }
@@ -26,7 +27,7 @@ p{
     display: flex;
     flex-wrap: wrap;
     font-size: 20px;
-    color: green;
+    color: #242424;
     align-items: center;
     margin-right: auto;
     margin-left: auto;
