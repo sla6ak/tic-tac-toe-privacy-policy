@@ -16,6 +16,7 @@ h1{
     color: 332424;
     align-items: center;
     display: flex;
+    font-weight: 700;
     flex-wrap: wrap;
     margin-top: 40px;
     margin-bottom: 40px;
@@ -25,6 +26,7 @@ h1{
 
 .p{
     display: flex;
+    font-weight: 600;
     flex-wrap: wrap;
     font-size: 20px;
     color: #242424;
@@ -36,6 +38,7 @@ h1{
 
 .name{
     display: flex;
+    font-weight: 600;
     flex-wrap: wrap;
     font-size: 20px;
     color: #245524;
@@ -46,6 +49,7 @@ h1{
 
 .email{
     display: flex;
+    font-weight: 600;
     flex-wrap: wrap;
     font-size: 20px;
     color: #242499;
