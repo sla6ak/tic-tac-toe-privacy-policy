@@ -3,7 +3,7 @@
     padding: 0;
 }
 .link-google{
-    color: 335577;
+    color: #335577;
     margin-right: 10px;
     margin-left: 10px;
 }
@@ -17,7 +17,7 @@ body{
 }
 h1{
     font-size: 30px;
-    color: 332424;
+    color: #332424;
     align-items: center;
     display: flex;
     font-weight: 700;
