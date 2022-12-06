@@ -4,6 +4,8 @@
 }
 .link-google{
     color: 335577;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 body{
     display: flex;
