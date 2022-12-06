@@ -2,12 +2,13 @@
     margin: 0;
     padding: 0;
 }
-.link-google{
+
+.link-google {
     color: #335577;
     margin-right: 10px;
     margin-left: 10px;
 }
-body{
+body {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
@@ -15,7 +16,7 @@ body{
     justify-content: center;
     align-items: center;
 }
-h1{
+h1 {
     font-size: 30px;
     color: #332424;
     align-items: center;
@@ -27,7 +28,7 @@ h1{
     margin-right: auto;
     margin-left: auto;
 }
-p{
+p {
     display: flex;
     font-weight: 600;
     flex-wrap: wrap;
@@ -38,7 +39,7 @@ p{
     margin-left: auto;
     margin-bottom: 10px;
 }
-.p{
+.p {
     display: flex;
     font-weight: 600;
     flex-wrap: wrap;
@@ -49,7 +50,7 @@ p{
     margin-left: auto;
     margin-bottom: 10px;
 }
-.name{
+.name {
     display: flex;
     font-weight: 600;
     flex-wrap: wrap;
@@ -59,7 +60,7 @@ p{
     margin-right: auto;
     margin-left: auto;
 }
-.email{
+.email {
     display: flex;
     font-weight: 600;
     flex-wrap: wrap;
@@ -69,7 +70,7 @@ p{
     margin-right: auto;
     margin-left: auto;
 }
-.country{
+.country {
     display: flex;
     flex-wrap: wrap;
     font-size: 20px;
